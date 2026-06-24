@@ -30,7 +30,7 @@ Open Visual Studio Code from Start menu. If the application launchs succesfully,
 
 ## Troubleshooting
 
-###Installer Could Not Be Downloaded
+### Installer Could Not Be Downloaded
 Check the internet connection and retry the download.
 
 ## Conclusion
