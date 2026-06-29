@@ -24,11 +24,11 @@ After the account is created successfully, sign in using your username and passw
 ## Troubleshooting
 
 ### Email Address Is Already Registered
-You can sign in with your registered Email address. Click on **Forgot password?** if you don't remember your password. Enter your Email address and click on **Send password reset email**. 
+You can sign in with your registered Email address. Click on **Forgot password?** if you don't remember your password. Enter your email address and click on **Send password reset email**. 
 A password reset link will be sent to the email address.
 
 ### Username Is Not Available
-Set a new username and check for availability. You can also suggest one of the suggested usernames.
+Set a new username and check for availability. You can also select one of the suggested usernames.
 
 ### Verification Code Not Received
 If you don't receive the verification code, you can click on **Resend the code** or **update your email address** and complete the verification.
